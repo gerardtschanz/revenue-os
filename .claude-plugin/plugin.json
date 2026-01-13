@@ -1,0 +1,71 @@
+{
+  "name": "revenue-os",
+  "version": "1.0.0",
+  "description": "Revenue Operating System - From code to customers to cash. A comprehensive monetization toolkit for developers.",
+  "author": {
+    "name": "Vladyslav Podoliako",
+    "url": "https://vladyslavpodoliako.com/",
+    "newsletter": "https://www.vladsnewsletter.com/"
+  },
+  "repository": "https://github.com/anthropics/revenue-os",
+  "homepage": "https://vladyslavpodoliako.com/",
+  "license": "MIT",
+  "keywords": [
+    "monetization",
+    "sales",
+    "marketing",
+    "revenue",
+    "icp",
+    "ideal-customer-profile",
+    "value-proposition",
+    "pricing",
+    "outreach",
+    "landing-page",
+    "customer-acquisition"
+  ],
+  "engines": {
+    "claude-code": ">=1.0.0"
+  },
+  "commands": {
+    "ros": {
+      "description": "Revenue OS dashboard - view revenue readiness score",
+      "file": "commands/ros.md"
+    },
+    "ros-icp": {
+      "description": "Discover your Ideal Customer Profile through codebase analysis",
+      "file": "commands/ros-icp.md"
+    },
+    "ros-value-prop": {
+      "description": "Polish your value proposition with proven frameworks",
+      "file": "commands/ros-value-prop.md"
+    },
+    "ros-pricing": {
+      "description": "Design pricing architecture with psychology",
+      "file": "commands/ros-pricing.md"
+    },
+    "ros-competitors": {
+      "description": "Competitive intelligence through web research",
+      "file": "commands/ros-competitors.md"
+    },
+    "ros-outreach": {
+      "description": "Generate personalized outreach sequences",
+      "file": "commands/ros-outreach.md"
+    },
+    "ros-landing-page": {
+      "description": "Generate high-converting landing page copy",
+      "file": "commands/ros-landing-page.md"
+    },
+    "ros-objections": {
+      "description": "Handle sales objections with proven responses",
+      "file": "commands/ros-objections.md"
+    },
+    "ros-first-dollar": {
+      "description": "Step-by-step playbook to get your first paying customer",
+      "file": "commands/ros-first-dollar.md"
+    },
+    "ros-audit": {
+      "description": "Comprehensive revenue readiness audit with scoring",
+      "file": "commands/ros-audit.md"
+    }
+  }
+}
