@@ -267,7 +267,7 @@ Created by **[Vladyslav Podoliako](https://vladyslavpodoliako.com/)**
 
 - **Website:** [vladyslavpodoliako.com](https://vladyslavpodoliako.com/)
 - **Newsletter:** [vladsnewsletter.com](https://www.vladsnewsletter.com/) — Weekly insights on AI, development, and building products
-- **Twitter/X:** [@vladyslavpod](https://twitter.com/vladyslavpod)
+- **Twitter/X:** [@StBelkins](https://twitter.com/stbelkins)
 
 ---
 
